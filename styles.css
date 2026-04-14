@@ -2,3 +2,49 @@
     box-sizing: border-box;
 }
 
+.T1 {
+    box-sizing: border-box;
+    background-color:rgb(91, 91, 91)
+}
+
+
+
+.p0 {
+    box-sizing: border-box;
+    color:white;
+    background-color:pink;
+}
+
+.p1 {
+    box-sizing: border-box;
+    color:rgb(255, 251, 30);
+
+}
+
+.p2 {
+    box-sizing: border-box;
+    color:limegreen;
+}
+
+.p3 {
+    box-sizing: border-box;
+    color:rgb(115, 255, 248);
+}
+
+.border1 {
+    background-color: white;
+    padding:30px;
+    border: 5px solid orange;
+    box-sizing:border-box;
+}
+
+.p5 {
+    box-sizing: border-box;
+    color:white;
+
+}
+
+#p10 {
+    box-sizing: border-box;
+    color:white;
+}
